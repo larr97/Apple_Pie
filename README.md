@@ -3,4 +3,4 @@
 This app is a game to guees the words. 
 
 ## Apple Pie App's Interface
-<img src="interface.jpg" height="1000">
+<img src="interface.png" height="1000">
